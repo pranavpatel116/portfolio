@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.df7075cb.css",
+    "main.js": "/portfolio/static/js/main.940deea4.js",
+    "static/js/453.b05d8aa5.chunk.js": "/portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/bg-light.png": "/portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/ibdsfa_logo.png": "/portfolio/static/media/ibdsfa_logo.bf559362e91b792a73e4.png",
+    "static/media/guj_res_logo.png": "/portfolio/static/media/guj_res_logo.1127ba09f3acdfa254e7.png",
+    "static/media/kids_dashboard_logo.png": "/portfolio/static/media/kids_dashboard_logo.3f5bb32e8a4ada631e5f.png",
+    "static/media/eff_logo.png": "/portfolio/static/media/eff_logo.55a37186de3a7644e355.png",
+    "static/media/dragon_logo.png": "/portfolio/static/media/dragon_logo.a05be5e99e33eeb205f4.png",
+    "static/media/smsm_logo.png": "/portfolio/static/media/smsm_logo.6ef5879ab92519ba5ca1.png",
+    "static/media/my.jpg": "/portfolio/static/media/my.a24f49b29652c851f596.jpg",
+    "static/media/radio_tuner_logo.png": "/portfolio/static/media/radio_tuner_logo.fa1780681decc4d3d18a.png",
+    "static/media/others_logo.png": "/portfolio/static/media/others_logo.47c2fe5c04080a7fb214.png",
+    "index.html": "/portfolio/index.html",
+    "main.df7075cb.css.map": "/portfolio/static/css/main.df7075cb.css.map",
+    "main.940deea4.js.map": "/portfolio/static/js/main.940deea4.js.map",
+    "453.b05d8aa5.chunk.js.map": "/portfolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df7075cb.css",
+    "static/js/main.940deea4.js"
+  ]
+}
