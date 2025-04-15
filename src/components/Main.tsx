@@ -18,7 +18,7 @@ function Main() {
             <a href="https://www.linkedin.com/in/pranav-patel192/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Pranav Patel</h1>
-          <p>Senior Mobile Developer | Android (Kotlin/Java), Flutter, React Native</p>
+          <p>Senior Mobile Application Developer | Android (Kotlin/Java), Flutter, React Native</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/pranavpatel116/" target="_blank" rel="noreferrer"><GitHubIcon/></a>
